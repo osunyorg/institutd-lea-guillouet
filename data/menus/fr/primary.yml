@@ -21,6 +21,20 @@ items:
     new_tab: false
     children: []
     descendants_targets: []
+  - title: Textile & 3D
+    slug: textile-3d
+    target: "#"
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Numérique
+    slug: numerique
+    target: "#"
+    kind: url
+    new_tab: false
+    children: []
+    descendants_targets: []
   descendants_targets:
   - "#"
   path: "/projects"
