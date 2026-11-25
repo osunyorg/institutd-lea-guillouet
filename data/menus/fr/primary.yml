@@ -10,9 +10,9 @@ items:
   descendants_targets: []
   path: "/files"
   file: content/fr/files/_index.html
-- title: Projets
-  slug: projets
-  target: "/projets/"
+- title: Design
+  slug: design
+  target: "/design/"
   kind: page
   new_tab: false
   children: []

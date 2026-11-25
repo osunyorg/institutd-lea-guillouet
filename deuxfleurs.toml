@@ -14,3 +14,11 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/projets/2026-atelier-couture/index.html"
+to = "/design/2026-atelier-couture/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/design/"
+
