@@ -16,7 +16,7 @@ items:
   children:
   - title: Graphisme
     slug: graphisme
-    target: "#"
+    target: "/design/Graphisme"
     kind: url
     new_tab: false
     children: []
@@ -37,6 +37,7 @@ items:
     descendants_targets: []
   descendants_targets:
   - "#"
+  - "/design/Graphisme"
   path: "/projects"
   file: content/fr/projects/_index.html
 - title: Galerie
